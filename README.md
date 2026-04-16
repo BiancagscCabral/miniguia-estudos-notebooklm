@@ -20,8 +20,8 @@ O **Data Intelligence Hub** é um caderno temático projetado para centralizar e
 Para alimentar o NotebookLM e gerar os insights deste projeto, foram selecionadas as seguintes fontes:
 
 1.  **Guia de Estudos: Carreira em Análise de Dados e IA (2025-2026):** Documento base que detalha o roadmap técnico e tendências de mercado.
-2.  *[Fonte 2 - Ex: Documentação Oficial do Pandas / Link ou Nome do PDF]*
-3.  *[Fonte 3 - Ex: Guia de Boas Práticas de SQL / Link ou Nome do PDF]*
+2.  **Fonte 2** - https://pandas.pydata.org/docs/
+3.  **Fonte 3** - https://www.devmedia.com.br/guia/guia-completo-de-sql/38314
 
 
 
@@ -44,18 +44,18 @@ Abaixo, registro o processo de interação com a IA para extrair o melhor conhec
 ## 4. Miniguia de Estudo
 
 ### Resumos Estruturados
-* [cite_start]**O Novo Analista:** Não é mais um "fazedor de relatórios", mas um resolvedor de problemas que usa a IA para produtividade[cite: 1].
+]**O Novo Analista:** Não é mais um "fazedor de relatórios", mas um resolvedor de problemas que usa a IA para produtividade.
 * **Fases do Roadmap:**
-    1.  [cite_start]**SQL:** Fundamento básico para manipulação de dados (DML/DDL)[cite: 1].
-    2.  [cite_start]**Power BI:** Foco em modelagem e criação de indicadores estratégicos[cite: 1].
-    3.  [cite_start]**Python:** Automação e análise avançada com Pandas e NumPy[cite: 1].
-* [cite_start]**Tendências 2026:** Agentes inteligentes acessando dados em tempo real e a soberania estratégica com Open Source[cite: 1].
+    1. **SQL:** Fundamento básico para manipulação de dados (DML/DDL).
+    2. **Power BI:** Foco em modelagem e criação de indicadores estratégicos.
+    3. **Python:** Automação e análise avançada com Pandas e NumPy.
+    4.**Tendências 2026:** Agentes inteligentes acessando dados em tempo real e a soberania estratégica com Open Source.
 
 ### Glossário de Conceitos Aprendidos
-* [cite_start]**ACID:** Propriedades que garantem transações confiáveis em bancos de dados[cite: 1].
-* [cite_start]**EDA (Exploratory Data Analysis):** Investigação inicial para descobrir padrões e anomalias[cite: 1].
-* [cite_start]**DSLMs:** Modelos de linguagem treinados em nichos específicos (ex: Finanças ou Saúde)[cite: 1].
-* [cite_start]**Vendor Lock-in:** Dependência excessiva de um único fornecedor de tecnologia[cite: 1].
+**ACID:** Propriedades que garantem transações confiáveis em bancos de dados.
+**EDA (Exploratory Data Analysis):** Investigação inicial para descobrir padrões e anomalias.
+**DSLMs:** Modelos de linguagem treinados em nichos específicos (ex: Finanças ou Saúde).
+**Vendor Lock-in:** Dependência excessiva de um único fornecedor de tecnologia.
 
 ### Prompts Reutilizáveis para Revisão
 * *"Explique o conceito de estatística inferencial e dê um exemplo de aplicação em teste de hipótese para negócios."*
