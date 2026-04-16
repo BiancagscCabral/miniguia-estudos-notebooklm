@@ -2,6 +2,7 @@
 
 Este repositório é o resultado de um projeto prático realizado para o desafio da **DIO (Digital Innovation One)**, focado em explorar o **NotebookLM** como uma ferramenta de aprendizagem ativa e curadoria estratégica de conhecimento.
 
+## Link do NotebookLM (Público): https://notebooklm.google.com/notebook/c95d9175-49fe-425b-a521-701c471cb852
 
 ## 1. Contexto e Objetivos
 
