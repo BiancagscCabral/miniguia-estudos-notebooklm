@@ -44,12 +44,12 @@ Abaixo, registro o processo de interação com a IA para extrair o melhor conhec
 ## 4. Miniguia de Estudo
 
 ### Resumos Estruturados
-]**O Novo Analista:** Não é mais um "fazedor de relatórios", mas um resolvedor de problemas que usa a IA para produtividade.
+**O Novo Analista:** Não é mais um "fazedor de relatórios", mas um resolvedor de problemas que usa a IA para produtividade.
 * **Fases do Roadmap:**
-    1. **SQL:** Fundamento básico para manipulação de dados (DML/DDL).
-    2. **Power BI:** Foco em modelagem e criação de indicadores estratégicos.
-    3. **Python:** Automação e análise avançada com Pandas e NumPy.
-    4. **Tendências 2026:** Agentes inteligentes acessando dados em tempo real e a soberania estratégica com Open Source.
+    1.  **SQL:** Fundamento básico para manipulação de dados (DML/DDL).
+    2.  **Power BI:** Foco em modelagem e criação de indicadores estratégicos.
+    3.  **Python:** Automação e análise avançada com Pandas e NumPy.
+    4.  **Tendências 2026:** Agentes inteligentes acessando dados em tempo real e a soberania estratégica com Open Source.
 
 ### Glossário de Conceitos Aprendidos
 **ACID:** Propriedades que garantem transações confiáveis em bancos de dados.
