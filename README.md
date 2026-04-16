@@ -1,4 +1,4 @@
-# 📑 Data Intelligence Hub: Carreira em Dados & IA
+# Data Intelligence Hub: Carreira em Dados & IA
 
 Este repositório é o resultado de um projeto prático realizado para o desafio da **DIO (Digital Innovation One)**, focado em explorar o **NotebookLM** como uma ferramenta de aprendizagem ativa e curadoria estratégica de conhecimento.
 
